@@ -47,7 +47,10 @@ if you don't have required softwares you can follow this guide  [STM32 Software 
         * Espressif ESP32-C3-MINI Module
 ### Ports and Connectors
 Refer to the diagram below to locate key components:
-[image will be Released]
+
+<div align="center">
+  <img width="100%" height="100%" src="Additionals/images/image.png">
+</div>
 
 ## Hardware Setup
 1. **Connect Power:**
