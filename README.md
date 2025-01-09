@@ -1,3 +1,10 @@
+<div align="center">
+  <img width="100%" height="100%" src="Additionals/images/tiremo.png">
+</div>
+<div align="center">
+  <img width="100%" height="100%" src="Additionals/images/serit.png">
+</div>
+
 # Getting Started Guide for MindBoard
 ## Introduction
 Welcome to the **MindBoard Getting Started!** This guide will help you set up and start using your board for development and testing. Whether you’re a beginner or an experienced user, follow these steps to get your board operational.
@@ -83,3 +90,6 @@ Update dates can be check from table below:
 Version-0.1: 06 Jan 2025
 First initial Setup Github Repo has been Created.
 ```
+<div align="center">
+  <img width="100%" height="100%" src="Additionals/images/serit.png">
+</div>
