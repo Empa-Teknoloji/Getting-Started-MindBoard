@@ -78,17 +78,59 @@ Refer to the diagram below to locate key components:
 git clone https://github.com/Empa-Teknoloji/Getting-Started-MindBoard.git
 ```
 ## First Project
-Will Be Added
+You have two options to get started with your first project:
+### Option 1: Using the Template Project
+1. **Download the Template Project:**
+  * Visit the repository link and download the pre-configured project files.
+  * You can find the template under the **project** folder.
+2. **Import the Project:**
+  * Open STM32CubeIDE.
+  * Click ```File``` > ```Import``` > ```Existing Projects into Workspace```.
+  * Browse to the downloaded project folder and click ```Finish```.
+3. **Build and Run:**
+  * Build the project by clicking the hammer icon.
+  * Connect the MindBoard and upload the code by clicking the run button.
+3. **Verify Output:**
+  * Open a serial monitor to observe the output or interact with the example.
+
+### Option 2: Starting with the .ioc File
+1. **Download the .ioc File:**
+  * Visit the repository link and download the ```.ioc``` file.
+  * You can find the ```.ioc``` file under the project folder.
+2. **Create a New Project:**
+  * Open STM32CubeMX.
+  * Load the  ```.ioc ``` file.
+3. **Generate Code:**
+  * Configure any additional settings as needed.
+  * Generate code and open it in STM32CubeIDE.
+4. **Write and Upload Code:**
+  * Add your application code.
+  * Compile and upload as described in the template project steps.
+
 ## Troubleshooting
-Will Be Added
-## Additional Resources
-Will Be Added
+### Common Issues
+* **Board Not Detected:**
+    * Ensure the USB cable is connected securely.
+    * Check drivers are installed properly.
+* **Program Fails to Upload:**
+    * Verify board settings in the IDE.
+    * Ensure correct COM port is selected.
+* **No Output on Terminal:**
+    * Check the baud rate and connection settings.
+
+For further assistance, please fill this form [Bug and Feature Form](https://forms.clickup.com/9005076790/f/8cbx49p-9232/OOHL4GCE7PVTWTPWMJ)
 
 ## Revisions
 Update dates can be check from table below:
 ```
+Version-0.3: 09 Jan 2025
+* Project template and IOC file have been added.
+* Support Form Created.
+* README file has been updated.
+Version-0.2: 07 Jan 2025
+* Images and Port information have been added.
 Version-0.1: 06 Jan 2025
-First initial Setup Github Repo has been Created.
+* First initial Setup Github Repo has been Created.
 ```
 <div align="center">
   <img width="100%" height="100%" src="Additionals/images/serit.png">
