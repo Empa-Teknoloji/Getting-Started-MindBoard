@@ -22,7 +22,7 @@ This board is designed to facilitate easy development of Edge AI applications on
 8. [Additional Resources](#additional-resources)
 
 ## Package Contents
-In the box you will find three main items as shown in <<figure-1>>.
+In the box you will find three main items.
 
 * MindBoard Development Board
 * USB Cable
