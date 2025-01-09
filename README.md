@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" height="100%" src="Additionals/images/tiremo.png">
+  <img width="100%" height="100%" src="Additionals/images/tiremoV2.png">
 </div>
 <div align="center">
   <img width="100%" height="100%" src="Additionals/images/serit.png">
